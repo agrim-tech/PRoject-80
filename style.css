@@ -1,0 +1,97 @@
+body{
+    text-align:center ;
+    background: linear-gradient(#00b330,#009bb3);
+}
+
+#input1{
+    font-family: 'Kufam', cursive;
+    font-Size: 20px;
+}
+#input2{
+    font-family: 'Kufam', cursive;
+    font-Size: 20px;
+}
+#input3{
+    font-family: 'Kufam', cursive;
+    font-Size: 20px;
+}
+#input4{
+    font-family: 'Kufam', cursive;
+    font-Size: 20px;
+}
+#input5{
+    font-family: 'Kufam', cursive;
+    font-Size: 20px;
+}
+#input6{
+    font-family: 'Kufam', cursive;
+    font-Size: 20px;
+}
+#input7{
+    font-family: 'Kufam', cursive;
+    font-Size: 20px;
+}
+#input8{
+    font-family: 'Kufam', cursive;
+    font-Size: 20px;
+}
+#input9{
+    font-family: 'Kufam', cursive;
+    font-Size: 20px;
+}
+#input10{
+    font-family: 'Kufam', cursive;
+    font-Size: 20px;
+}
+#input11{
+    font-family: 'Kufam', cursive;
+    font-Size: 20px;
+}
+#input12{
+    font-family: 'Kufam', cursive;
+    font-Size: 20px;
+}
+span{
+    font-family: 'Kufam', cursive;
+    font-Size: 20px;
+    color: black;
+}
+
+#display{
+    font-family: 'Zilla Slab', serif;
+    font-Size: 25px; 
+    margin-left: 25%; 
+    color:black;
+}
+#display2{
+    margin-top: 35px;
+    font-family: 'Zilla Slab', serif;
+    font-Size: 25px; 
+    margin-left: 25%;
+    color: black;
+}
+#print{
+    font-family: 'Kufam', cursive;
+    font-Size: 20px;
+}
+#screen{
+    display: inline-flex;
+}
+#div1{
+    margin-right: 100px;
+}
+#div2{
+    margin-left: 100px;
+}
+#line{
+    height: 3px;
+    width: 100%;
+    background-color: black;
+    display: none;
+}
+#line2{
+    height: 3px;
+    width: 100%;
+    background-color: black;
+    display: none;
+}
